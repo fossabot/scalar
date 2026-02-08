@@ -3,6 +3,7 @@
 [![GitHub License](https://img.shields.io/github/license/scalar/scalar)](https://github.com/scalar/scalar/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/scalar)](https://x.com/scalar)
 [![Discord](https://img.shields.io/discord/1135330207960678410?style=flat&color=5865F2)](https://discord.gg/scalar)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fscalar.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fscalar?ref=badge_shield)
 
 <h1>
 	<p>Scalar</p>
@@ -1545,3 +1546,7 @@ Contributions are welcome! Read the [`CONTRIBUTING`](CONTRIBUTING.md) guide.
 	<tbody>
 </table>
 <!-- readme: collaborators,contributors -end -->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fscalar.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fscalar?ref=badge_large)
